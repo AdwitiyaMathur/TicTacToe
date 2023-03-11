@@ -23,11 +23,11 @@ python tic_tac_toe.py
 The game will start and display an empty game board, with the cells numbered from 0 to 8:
 
 
-  0 | 1 | 2
- -----------
-  3 | 4 | 5
- -----------
-  6 | 7 | 8
+#  0 | 1 | 2
+# -----------
+#  3 | 4 | 5
+# -----------
+#  6 | 7 | 8
   
   
 To make a move, type the number of the cell you want to mark and press Enter. The game will validate your input and mark the cell with the symbol of the current player (either X or O). The game will then switch to the other player, and the updated game board will be displayed.
