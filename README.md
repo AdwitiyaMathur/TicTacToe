@@ -10,7 +10,8 @@ To run the game, you need to have Python 3 installed on your computer. You can d
 
 Once you have Python 3 installed, you can clone this repository to your computer using Git:
 
-git clone https://github.com/AdwitiyaMathur/tic-tac-toe-python.git
+git clone https://github.com/AdwitiyaMathur/TicTacToe
+
 Alternatively, you can download the repository as a ZIP file and extract it to a folder on your computer.
 
 Playing the Game
